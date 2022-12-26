@@ -1,12 +1,13 @@
 .cars {
     h2 {
-        color: $color-02;
+        color: $solar-yellow;
     }
     li {
-        color: $color-04;
+        color: $energy-orange;
 
         a {
             background-color: $color-default;
         }
     }
+    margin-bottom: 10px;
 }
